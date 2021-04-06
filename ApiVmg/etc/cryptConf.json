@@ -1,0 +1,12 @@
+{
+  "cryptServerUrl": "http://192.168.18.212:8088/crypt_client/api_v1/getKey",
+  "apiPortListen":8023,
+  "lstCrypt": [
+    {
+      "cryptId":null,
+      "appName": "TEST_CRYPT_9",
+      "appId": "APP_ID-@I7_ECl10",
+      "keyLength":"AES_128"
+    }
+  ]
+}

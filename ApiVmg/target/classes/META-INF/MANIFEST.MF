@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Built-By: VMG
+Class-Path: libs/jackson-core-2.9.8.jar libs/jackson-annotations-2.9.8
+ .jar libs/jackson-databind-2.9.8.jar libs/dagger-2.16.jar libs/javax.
+ inject-1.jar libs/dagger-compiler-2.16.jar libs/dagger-producers-2.16
+ .jar libs/checker-compat-qual-2.3.0.jar libs/dagger-spi-2.16.jar libs
+ /google-java-format-1.4.jar libs/javac-shaded-9-dev-r4023-3.jar libs/
+ guava-23.3-jre.jar libs/jsr305-1.3.9.jar libs/error_prone_annotations
+ -2.0.18.jar libs/j2objc-annotations-1.1.jar libs/animal-sniffer-annot
+ ations-1.14.jar libs/javapoet-1.8.0.jar libs/jsr250-api-1.0.jar libs/
+ vertx-core-3.3.3.jar libs/netty-common-4.1.5.Final.jar libs/netty-buf
+ fer-4.1.5.Final.jar libs/netty-transport-4.1.5.Final.jar libs/netty-h
+ andler-4.1.5.Final.jar libs/netty-codec-4.1.5.Final.jar libs/netty-ha
+ ndler-proxy-4.1.5.Final.jar libs/netty-codec-socks-4.1.5.Final.jar li
+ bs/netty-codec-http-4.1.5.Final.jar libs/netty-codec-http2-4.1.5.Fina
+ l.jar libs/netty-resolver-4.1.5.Final.jar libs/netty-resolver-dns-4.1
+ .5.Final.jar libs/netty-codec-dns-4.1.5.Final.jar libs/vertx-web-3.3.
+ 3.jar libs/vertx-auth-common-3.3.3.jar libs/vertx-web-client-3.8.0.ja
+ r libs/vertx-web-common-3.8.0.jar libs/jaxrpc-api-1.1.jar libs/mongo-
+ java-driver-3.11.2.jar libs/axis-1.4.jar libs/axis2-kernel-1.6.2.jar 
+ libs/axiom-api-1.2.13.jar libs/geronimo-activation_1.1_spec-1.1.jar l
+ ibs/geronimo-javamail_1.4_spec-1.7.1.jar libs/jaxen-1.1.3.jar libs/ge
+ ronimo-stax-api_1.0_spec-1.0.1.jar libs/apache-mime4j-core-0.7.2.jar 
+ libs/axiom-impl-1.2.13.jar libs/wstx-asl-3.2.9.jar libs/geronimo-ws-m
+ etadata_2.0_spec-1.1.2.jar libs/geronimo-jta_1.1_spec-1.1.jar libs/se
+ rvlet-api-2.3.jar libs/commons-httpclient-3.1.jar libs/commons-fileup
+ load-1.2.jar libs/wsdl4j-1.6.2.jar libs/XmlSchema-1.4.7.jar libs/neet
+ hi-3.0.2.jar libs/woden-api-1.0M9.jar libs/woden-impl-dom-1.0M9.jar l
+ ibs/woden-impl-commons-1.0M9.jar libs/commons-logging-1.1.1.jar libs/
+ jsr311-api-1.0.jar libs/httpclient-4.1.1.jar libs/httpcore-4.1.jar li
+ bs/commons-codec-1.4.jar libs/jxls-2.4.2.jar libs/commons-jexl-2.1.1.
+ jar libs/commons-beanutils-1.9.2.jar libs/commons-collections-3.2.1.j
+ ar libs/slf4j-api-1.7.12.jar libs/jcl-over-slf4j-1.7.12.jar libs/logb
+ ack-core-1.1.3.jar libs/jxls-poi-1.0.13.jar libs/poi-3.16.jar libs/co
+ mmons-collections4-4.1.jar libs/poi-ooxml-3.16.jar libs/poi-ooxml-sch
+ emas-3.16.jar libs/xmlbeans-2.6.0.jar libs/stax-api-1.0.1.jar libs/cu
+ rvesapi-1.04.jar libs/passay-1.4.0.jar libs/bonecp-0.1.0.jar libs/com
+ mons-codec-1.0.jar libs/CryptStarApi-0.1.0.jar libs/guava-1.0.jar lib
+ s/jtds-1.0.jar libs/commons-discovery-0.5.jar libs/log4j-1.0.jar libs
+ /log4j-rolling-appender-1.0.jar libs/mail-1.0.jar libs/slf4j-api-1.0.
+ jar libs/slf4j-ext-1.0.jar libs/ojdbc8-1.0.jar libs/log4j-1.2.17.jar
+Build-Jdk: 1.8.0_171
+Created-By: Maven Integration for Eclipse
+Main-Class: vn.vmg.infosky.api.server.manager.AppMain
+

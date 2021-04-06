@@ -1,0 +1,7 @@
+{
+	"driver":"oracle.jdbc.driver.OracleDriver",
+	"url": "jdbc:oracle:thin:@192.168.18.211:1521:bigdata",
+	"user": "bigdata",
+	"pass": "InfoSkyVmg",
+	"autoCommit": false
+}

@@ -1,0 +1,22 @@
+{
+  "serverPort": 4400,
+  
+  "log4j": "etc/log4j.cfg",
+  "dbConfig": "etc/db.json",
+  "cryptConfDir": "etc/cryptConf.json",
+  
+  "templateImportKYC": "template/import_infosky_template.xls",
+  "downloadTempImport": "downloads/exportTemplateImport",
+  
+  "oraAesKey": "11111111111111111111111111111111",
+  "runNewCrypt": false,
+  
+  "routeConfig": "etc/routeStandard.json",
+  "routeTimeOutStandard": 60000,
+  
+  "vertxWorkerMaxThreadStandard": 300,
+  "vertxWorkerMaxTimeExcuteStandard": 300000,
+  
+  "urlTransTimeout": 60000,
+  "timeZone": "Asia/Bangkok"
+}

@@ -1,0 +1,16 @@
+{
+	"routeAll": {
+		"service": [
+			{
+				"method": "GET",
+				"path": "get_all",
+				"eventId": "GET_ALL_SERVICE_AND_PARTNER"
+			},
+			{
+				"method": "GET",
+				"path": "get_all_indicator_output",
+				"eventId": "GET_ALL_INDICATOR_OUTPUT"
+			}
+		]
+	}
+}
